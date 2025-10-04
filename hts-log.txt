@@ -1,12 +1,12 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Oct 2025 23:53:13 at https://versatile-curiosity-997527.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://versatile-curiosity-997527.framer.app/ -O1 "C:\My Web Sites\HackVerse" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Oct 2025 13:50:31 at https://versatile-curiosity-997527.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0I0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://versatile-curiosity-997527.framer.app/ -O1 "C:\My Web Sites\fuck" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-23:53:29	Error: 	"Forbidden" (403) at link https://files.bpcontent.cloud/2025/09/26/04/20250926042258-GG3EVBA7.js (from https://versatile-curiosity-997527.framer.app/)
+13:50:42	Error: 	"Forbidden" (403) at link https://files.bpcontent.cloud/2025/09/26/04/20250926042258-GG3EVBA7.js (from https://versatile-curiosity-997527.framer.app/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 34 links scanned, 32 files written (4178031 bytes overall) [2315542 bytes received at 115777 bytes/sec], 2285567 bytes transferred using HTTP compression in 7 files, ratio 16%, 3.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 34 links scanned, 32 files written (4419326 bytes overall) [2341992 bytes received at 156132 bytes/sec], 2516741 bytes transferred using HTTP compression in 7 files, ratio 15%, 3.0 requests per connection
 (1 errors, 0 warnings, 0 messages)
